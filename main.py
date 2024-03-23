@@ -13,3 +13,4 @@ period1 = (datetune.today()).strftime("")
 period2 = None
 
 yf = f"https://finance.yahoo.com/quote/%5EGSPC/history?period1={period1}&period2={period2}&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true"
+ff = "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html"
